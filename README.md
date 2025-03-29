@@ -12,7 +12,7 @@ Big thanks to [Давид Мзареулян (David Mzareulyan)](https://github.
 
 ## Issues
 
-If you have an issue: report it on the [issue tracker](https://github.com/xanzy/ssh-agent/issues)
+If you have an issue: report it on the [issue tracker](https://github.com/forkwork/ssh-agent/issues)
 
 ## Author
 
